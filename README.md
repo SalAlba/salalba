@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with building drones 🛸.
 - 💬 Ask me about everything, I'm open for any conversation.
 
-
+![Latest blog post workflow](https://github.com/SalAlba/salalba/workflows/Latest%20blog%20post%20workflow/badge.svg)
 <!--
 **SalAlba/salalba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
