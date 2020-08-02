@@ -24,12 +24,27 @@ Here are some ideas to get you started:
 
 
 ### 📫 Connect with me:
-
 [<img align="left" alt="salem.albarudy.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="salem-albarudy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="SalAlba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+
+
+<br>
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
+
+
+
+
+
+
 
 
 
