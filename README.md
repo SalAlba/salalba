@@ -35,6 +35,21 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [
+        Update and rename notes/box -and -whisker-plot/README.md to notes/box…
+    ](https://github.com/SalAlba/machine-learning/commit/17de80040ca00b8009d8573019c43597b80f2cbc)
+- [
+        under-sampling-cluster-centroids
+    ](https://github.com/SalAlba/machine-learning/commit/4e40b0e8a5e3bd9c95c8309a42a0d5b8cb74928e)
+- [
+        cluster centroids over sampling followed under sampling
+    ](https://github.com/SalAlba/machine-learning/commit/c326ebbf12b9eae241b2f800c6b29d4b5a1ef25d)
+- [
+        WIP
+    ](https://github.com/SalAlba/machine-learning/commit/6032822646ea125959c35d45e3765bcdfb5d0e97)
+- [
+        WIP
+    ](https://github.com/SalAlba/machine-learning/commit/09ab1a3a43f737885b90523b7d88f958e770806a)
 <!-- BLOG-POST-LIST:END -->
 
 
