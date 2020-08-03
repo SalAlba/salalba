@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 ### 📫 Connect with me:
 [<img align="left" alt="salem.albarudy.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
@@ -30,17 +28,19 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="SalAlba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
-
 <br>
 
+---
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Deploy Flask With Docker](http://salem.albarudy.pl/postes/deploy-flask-with-docker)
 - [Machine Learning Project Checklist](http://salem.albarudy.pl/postes/machine-learning-project-checklist)
 <!-- BLOG-POST-LIST:END -->
 
-
-
+---
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="left" alt="Salem's github stats" src="https://github-readme-stats.vercel.app/api?username=salalba&hide=prs&count_private=true&show_icons=true" />
+<img align="left" alt="Salem's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salalba" />
 
 
 
