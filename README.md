@@ -64,6 +64,8 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Flask With Docker](http://salem.albarudy.pl/postes/deploy-flask-with-docker)
+- [Machine Learning Project Checklist](http://salem.albarudy.pl/postes/machine-learning-project-checklist)
 <!-- BLOG-POST-LIST:END -->
 
 ---
