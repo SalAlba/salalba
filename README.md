@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on building platform delivering ML/DL/AI pipelines.
 - 🌱 I’m currently learning machine learning algo. using [Hands On Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml)
-- 🤔 I’m looking for help with building drones 🛸, and helps in answer this [questions ❓](https://github.com/SalAlba/machine-learning/tree/master/questions) .
+- 🤔 I’m looking for help with building drones 🛸, and helps in answer this [questions ❓](https://github.com/SalAlba/machine-learning/blob/master/topics/README.md#questions) .
 - 💬 Ask me about everything, I'm open for any conversation.
 
 ![Latest blog post workflow](https://github.com/SalAlba/salalba/workflows/Latest%20blog%20post%20workflow/badge.svg)
