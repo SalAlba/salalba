@@ -1,5 +1,14 @@
 # TODO
 
+[React - The Complete Guide (includes Hooks, React Router, and Redux) - Second Edition [Video]](https://www.packtpub.com/product/react-the-complete-guide-includes-hooks-react-router-and-redux-second-edition-video/9781801812603)
+
+[50 Projects in 50 Days - HTML, CSS, and JavaScript [Video]](https://www.packtpub.com/product/50-projects-in-50-days-html-css-and-javascript-video/9781801079976)
+
+[The Complete Practical Docker Guide [Video]](https://www.packtpub.com/product/the-complete-practical-docker-guide-video/9781803247892)
+
+
+
+
 * unit test for python proj.
   * https://github.com/microsoft/vscode-python/issues/6881
 
